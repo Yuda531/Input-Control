@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pertemuan5</string>
+    <string name="judul">FORMULIR PENDAFTARAN\nWhoosh</string>
+    <string name="judul2">DATA PENDAFTAR\nWhoosh</string>
+    <string name="nama_hint">Masukkan Nama</string>
+    <string name="jenis_kelamin">Jenis Kelamin: </string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="no_handphone_hint">Masukkan No Handphone</string>
+    <string name="tanggal_keberangkatan">Pilih Tanggal Keberangkatan</string>
+    <string name="rute">Pilih Rute: </string>
+    <string name="jakarta_bandung">Jakarta-Bandung</string>
+    <string name="bandung_jakarta">Bandung-Jakarta</string>
+    <string name="daftar">Daftar</string>
+    <string name="masukkan_no_handphone">Masukkan No Handphone</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="hari_ini">Tanggal Keberangkatan</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="terima_kasih">TERIMA KASIH</string>
+</resources>
